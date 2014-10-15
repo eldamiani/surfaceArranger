@@ -1,4 +1,4 @@
 surfaceArranger
 ===============
 
-Program pomagający zaprojektować i ułożyć podłogę lub inną powierzchnię
+The program helps to design and arrange the floor or other surface.
